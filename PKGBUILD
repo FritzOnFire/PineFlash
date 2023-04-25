@@ -17,6 +17,7 @@ depends=(
   'dfu-util'
   'gtk3'
   'polkit'
+  'blisp'
 )
 makedepends=(
   'git'
